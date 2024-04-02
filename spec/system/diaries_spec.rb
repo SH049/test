@@ -30,5 +30,4 @@ RSpec.describe "Diaries", type: :system do
     end
   end
 
-  
 end
